@@ -1,0 +1,23 @@
+{
+  "name": "minecraft-server-pinger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rois2coeurs/Minecraft-Server-Pinger.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rois2coeurs/Minecraft-Server-Pinger/issues"
+  },
+  "homepage": "https://github.com/rois2coeurs/Minecraft-Server-Pinger#readme",
+  "dependencies": {
+    "discord.js": "^14.1.2"
+  }
+}

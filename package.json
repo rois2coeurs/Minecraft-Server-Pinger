@@ -20,6 +20,9 @@
   "dependencies": {
     "@discordjs/rest": "^1.0.1",
     "discord.js": "^14.1.2",
-    "dotenv": "^16.0.1"
+    "dotenv": "^16.0.1",
+    "image-data-uri": "^2.0.1",
+    "request": "^2.88.2",
+    "xmlhttprequest": "^1.8.0"
   }
 }
